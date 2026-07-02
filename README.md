@@ -64,9 +64,9 @@ Ejecutado sobre el dataset completo (50,425 instancias; 40,340 entrenamiento / 1
 
 | Algoritmo | Acc GPU | Acc CPU (Bitácora 02) | ΔAcc (pp) | Speedup (CPU/GPU) |
 |---|---|---|---|---|
-| Random Forest | 0.7912 | 0.9719 | −18.07 | 7.17× |
+| Random Forest | 0.7912 | 0.9719 | −18.07 | 7.21× |
 | Regresión Logística | 0.9672 | 0.9672 | 0.00 | 3.57× |
-| SVM | 0.9765 | 0.9764 | +0.01 | **22.49×** |
+| SVM | 0.9765 | 0.9764 | +0.01 | **26.87×** |
 
 Ver el informe completo en Obsidian: `GPU - Corte 2.md`.
 
